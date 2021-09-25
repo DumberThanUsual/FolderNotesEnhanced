@@ -30,6 +30,6 @@ Lets you put notes on the file tree
 | ------------- |:-------------:| -----:|
 | color      | the color of the notes | yellow |
 
-##credit:
+## credit:
 Original project: https://github.com/Matthew-Carr/FolderNotes
 Automatic colour based on background: https://github.com/TetrisSmalls/AutoTextColor
