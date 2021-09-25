@@ -1,17 +1,18 @@
 {
   "color": "lightray",
-  "notes": [
-    "HI THERE"
-  ],
+  "labelConfig": {
+    "urgent": {
+      "color": "red"
+    }
+  },
   "subElements": {
     "lib": {
-      "color": "lightray",
       "notes": [
         "main source code"
       ],
-      "subElements": {
-
-      }
+      "labels": [
+        "urgent"
+      ]
     }
   }
 }
