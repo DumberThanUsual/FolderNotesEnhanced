@@ -2,17 +2,17 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle folder-notes",
+        "label": "Toggle folde notes",
         "command": "folder-notes-enhanced:toggle"
       }
     ],
     ".directory": [
       {
-        "label": "Toggle folder-notes",
+        "label": "Toggle folder notes",
         "command": "folder-notes-enhanced:toggle"
       },
       {
-        "label": "Edit folder labels",
+        "label": "Edit folder notes and labels",
         "command": "folder-notes-enhanced:edit"
       }
     ]
