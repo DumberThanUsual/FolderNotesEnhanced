@@ -2,7 +2,7 @@
   "color": "lightray",
   "labelConfig": {
     "urgent": {
-      "color": "red"
+      "color": "#FF0000"
     }
   },
   "subElements": {
