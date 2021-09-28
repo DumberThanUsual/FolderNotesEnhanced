@@ -3,30 +3,37 @@
     .removeIcon:hover {
       filter: invert(100%);
     }
+    .folderNotesEnhanced.labelEntry {
+      height: 2.5em;
+    }
+    .btn.addLabel:before {
+      margin: 0;
+    }
+    .btn.addLabel {
+      float: right;
+      height: 100%;
+    }
+    .folderNotesEnhanced.labelSelect {
+      margin: auto;
+    }
   </style>
   <h1 class="icon icon-pencil">Edit notes and labels for <b><span class="folderNotesEnhancedPath"></span></b></h1>
 
   <section>
     <h2>Labels: </h2>
     <div class="folderNotesEnhanced labelEntry">
-    </div>
-    <!---
-    <form role="folderNotesEnhanced folderNotesEnhancedInput form">
-      <div class="form-group">
-        <label for="usrname"><span class="glyphicon glyphicon-user"></span> Username</label>
-        <input type="text" class="form-control" id="usrname" placeholder="Enter email">
-      </div>
-      <div class="form-group">
-        <label for="psw"><span class="glyphicon glyphicon-eye-open"></span> Password</label>
-        <input type="text" class="form-control" id="psw" placeholder="Enter password">
-      </div>
-      <div class="checkbox">
-        <label><input type="checkbox" value="" checked>Remember me</label>
-      </div>
-        <button type="submit" class="btn btn-success btn-block"><span class="glyphicon glyphicon-off"></span> Login</button>
-    </form>
 
-  --->
+    </div>
+
+    <br>
+
+    <div class="folderNotesEnhanced labelAdd">
+      <div class="settings-view">
+        <select class="folderNotesEnhanced labelSelect form-control">
+        </select>
+        <button class="do-addLabel btn btn-secondary">Add</button>
+      </div>
+    </div>
   </section>
 
   <section>
