@@ -2,7 +2,7 @@
   "name": "folder-notes-enhanced",
   "main": "./lib/folder-notes-enhanced",
   "version": "1.0.0",
-  "description": "Fork of https://github.com/Matthew-Carr/FolderNotes.git",
+  "description": "Lets you add notes and labels to the file tree",
   "activationHooks": ["core:loaded-shell-environment"],
   "keywords": [],
   "activationCommands": {
