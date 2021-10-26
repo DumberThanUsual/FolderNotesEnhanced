@@ -1,1 +1,37 @@
-{"color":"lightray","labelConfig":{"urgent":{"color":"#FF0000"}},"subElements":{"lib":{"notes":["main source code"],"labels":["urgent"],"subElements":{"folder-notes-enhanced.js":{"labels":[],"notes":[""]}}},"spec":{"subElements":{"folder-notes-enhanced-view-spec.js":{"labels":[],"notes":[""]}}}}}
+{
+  "color": "lightray",
+  "labelConfig": {
+    "urgent": {
+      "color": "#FF0000"
+    },
+    "ToDo": {
+      "color": "#00F0FF"
+    }
+  },
+  "subElements": {
+    "lib": {
+      "notes": [
+        "main source code"
+      ],
+      "labels": [
+        "urgent"
+      ],
+      "subElements": {
+        "folder-notes-enhanced.js": {
+          "labels": [],
+          "notes": [
+            "script entry point"
+          ]
+        }
+      }
+    },
+    "README.md": {
+      "labels": [
+        "ToDo"
+      ],
+      "notes": [
+        ""
+      ]
+    }
+  }
+}
