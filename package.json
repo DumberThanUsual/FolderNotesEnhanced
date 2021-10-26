@@ -1,7 +1,7 @@
 {
   "name": "folder-notes-enhanced",
   "main": "./lib/folder-notes-enhanced",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Lets you add notes and labels to the file tree",
   "activationHooks": [
     "core:loaded-shell-environment"
